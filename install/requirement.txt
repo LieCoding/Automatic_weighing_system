@@ -1,0 +1,8 @@
+Pillow==7.1.2      
+numpy==1.18.4     
+matplotlib==3.2.1         
+pyserial==3.4          
+opencv-python== 4.2.0.34            
+
+
+ 
